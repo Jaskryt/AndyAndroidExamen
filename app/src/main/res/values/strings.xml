@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+    <string name="title_activity">Conversor de Unidades</string>
+    <string name="Titulo1">Unidades De Temperatura</string>
+    <string name="boton1">Celcius a Farenheit</string>
+    <string name="boton2">Celcius a Kelvin</string>
+    <string name="boton3">Farenheit a Celsius</string>
+    <string name="boton4">Kelvin a Celcius</string>
+    <string name="text1">Unidades</string>
+    <string name="text2">Calcular</string>
+    <string name="text3">Resultado</string>
+</resources>
